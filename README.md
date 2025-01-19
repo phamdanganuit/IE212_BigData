@@ -45,7 +45,7 @@ pip install -r requirements.txt
 # Mở terminal: di chuyển vào thư mục BE
 cd .\BE\
 npm i
-npm app.js
+node app.js
 ```
 ```
 # Mở terminal: di chuyển vào thư mục FE
