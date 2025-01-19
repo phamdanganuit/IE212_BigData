@@ -27,7 +27,7 @@ Dự án không chỉ dừng lại ở việc phân loại các bình luận mà
 ## Cài Đặt
 ```bash
 # Clone repository về máy của bạn
-git clone https://github.com/phamdanganuit/IE212[Bigdata].git
+git clone https://github.com/phamdanganuit/IE212_BigData.git
 
 # Di chuyển vào thư mục dự án
 cd IE212[Bigdata]
