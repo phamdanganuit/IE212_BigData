@@ -1,3 +1,4 @@
+
 # IE212 (BigData) Toxic-Comment-Detection-on-YouTube-Livestreams Using phoBERT model and streaming on pySpark
 - Khoa Khoa học và Kỹ thuật thông tin, Trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh.
 - GVHD: TS. Đỗ Trọng Hợp.
@@ -15,6 +16,7 @@ Với sự phát triển nhanh chóng của công nghệ thông tin, mạng xã 
 Trong bối cảnh đó, việc phát hiện và xử lý các bình luận độc hại (toxic comments) trở thành một vấn đề quan trọng. Nhằm mục tiêu giải quyết vấn đề này, dự án Toxic-Comment-Detection-on-YouTube-Livestreams Using phoBERT model and streaming on PySpark đã được xây dựng. Dự án sử dụng mô hình phoBERT, một biến thể của BERT được tối ưu cho tiếng Việt, kết hợp với PySpark để xử lý và phân tích dữ liệu livestream trên YouTube theo thời gian thực.
 
 Với khả năng phân loại chính xác các bình luận tiêu cực, hệ thống giúp người dùng nhận diện mức độ độc hại của livestreams và hỗ trợ nhà sáng tạo nội dung kịp thời can thiệp với những người xem có hành vi tiêu cực. Đây là một bước tiến quan trọng trong việc duy trì một môi trường mạng xã hội lành mạnh và tích cực.
+![diagram (1)](https://github.com/user-attachments/assets/a237f4a5-8580-4d16-9176-aed7fd41532e)
 
 Dự án không chỉ dừng lại ở việc phân loại các bình luận mà còn tích hợp công nghệ streaming trên PySpark để xử lý và phân tích dữ liệu lớn trong thời gian thực, mở ra nhiều cơ hội ứng dụng trong việc cải thiện các hệ thống quản lý cộng đồng trực tuyến.
 ## Công nghệ và môi trường sử dụng
